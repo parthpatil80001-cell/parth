@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Pro Photo Editor",
+  "description": "Professional image editor suite with rich filters, manual adjustments, drawing tools, text/sticker layers, before/after compare, edit history, and an AI co-pilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
